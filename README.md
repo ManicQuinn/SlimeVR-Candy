@@ -1,6 +1,8 @@
 # SlimeMania-Case
-Custom SlimeVR Trackers I am working on, PCB and Case design, optimized for movement(dancing, etc)
-3D files are designed on Fusion 360 as that is what I have the most experience with and am used to.
+Custom SlimeVR Trackers I am working on, PCB and Case design, optimized for being compact while using breakout boards and also have cable routing in mind so it won't affect the
+antenna signal.
+3D files are designed in Fusion 360 as that is what I have the most experience with.
+
 Parts: 
 1. Wemos D1 Mini V4.0
 2. BMI160
