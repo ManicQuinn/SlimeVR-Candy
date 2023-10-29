@@ -1,1 +1,1 @@
-These are all the files for the case.
+These are source and STL files for the cases.
