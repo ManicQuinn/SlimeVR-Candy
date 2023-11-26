@@ -1,12 +1,12 @@
 # Candy-Case
 A Non-PCB case for SlimeVR trackers, over engineered and optimized for being compact. They're only 61.8mm(L)x60.5(W)x16.2mm(H) in size WITH strap loops, and only weigh about 50 grams with all the components inside and wired up(Including the battery I chose, your millage may vary).
 
-![Alt text](<First Print of V9.0.jpg>)
-![Alt text](<IMG_4716.jpg>)
-![Alt text](<IMG_4719.jpg>)
-![Alt text](<IMG_4720.jpg>)
-![Alt text](<IMG_4722.jpg>)
-![Alt text](<IMG_4717.jpg>)
+![Alt text](<Photos/First Print of V9.0.jpg>)
+![Alt text](<Photos/IMG_4716.jpg>)
+![Alt text](<Photos/IMG_4719.jpg>)
+![Alt text](<Photos/IMG_4720.jpg>)
+![Alt text](<Photos/IMG_4722.jpg>)
+![Alt text](<Photos/IMG_4717.jpg>)
 
 I've looked at every problem available to me at a technical level, from cable routing causing issues with the Wifi antenna, to a size problem when it comes to Non-PCB cases, the goal of this project was to be as optimized as I could. There were some issues I could not fix due to the design, and decided to compromise.
 
