@@ -1,4 +1,4 @@
-# Candy-Case
+# Candy-Case (Not Maintained Anymore due to moving on to my [Smol-Slimes Design](https://github.com/ManicQuinn/SlimeVR-Gremlin))
 A Non-PCB case for SlimeVR trackers, over engineered and optimized for being compact. They're only 61.8mm(L)x60.5(W)x16.2mm(H) in size WITH strap loops, and only weigh about 50 grams with all the components inside and wired up(Including the battery I chose, your millage may vary).
 
 ![Alt text](<Photos/First Print of V9.0.jpg>)
